@@ -1,0 +1,25 @@
+body{
+	background-color: black;
+}
+.board{
+	width: 600px;	
+	margin: auto;
+	font-size: 0px;
+}
+
+.cell{
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	
+}
+
+
+.white_cell{
+	background-color: white;
+}
+
+
+.black_cell{
+	background-color: #791c16;	
+}

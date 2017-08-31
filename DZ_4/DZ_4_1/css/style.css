@@ -1,0 +1,67 @@
+
+.border_div{
+	width: 400px;
+	height: 550px;
+	border: 2px solid black;
+	margin: auto;
+}
+
+.text_div{
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0px;
+	margin-top: 15px;
+	width: 380px;
+	height: 86px;
+}
+
+.text_lenovo{
+	margin: auto;
+	width: 280px;
+	margin-top: 15px;
+	text-align: center;
+	font-family: arial;
+	font-size: 22px;
+}
+
+img{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;		
+}
+
+.button_credit{
+	color: white;
+	background-color: #9aba48;
+	width: 191px;
+	height: 33px;
+	font-size: 22px;
+	font-weight: bold;
+	box-shadow: -3px 3px 0px 0px rgba(156,156,156,1);
+	border: none;
+	margin-top: 3px;
+}
+
+.price{
+	margin-top: 20px;
+	text-align: center;
+	font-family: arial;
+	font-size: 31px;
+	margin-bottom: 20px;
+}
+
+.button_buy{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+	background-color: #e93f33;
+	width: 228px;
+	height: 47px;
+	font-size: 28px;
+	font-weight: bold;
+	box-shadow: -1px 3px 0px 0px rgba(121,28,21,1);
+	border: none;
+	margin-bottom: 7px;
+}
